@@ -13,4 +13,4 @@ for guessestaken in range(1,6):
 if guess == secretnum:
     print("Good job! u guessed my num in" + str(guessestaken) + "guess!")
 else:
-    print("Nope...! the num is was thinking was" + str(secretnum))
+    print("Nope...! the num i was thinking was" + str(secretnum))
